@@ -1,4 +1,4 @@
-.alert-text {
+.odd-number {
   background-color: #ffb6c1;
   font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
@@ -6,6 +6,10 @@
 #id-1 {
   color: rgb(0, 0, 255);
   font-size: 36px;
+}
+
+.number-3 {
+  font-size: 24px;
 }
 
 
