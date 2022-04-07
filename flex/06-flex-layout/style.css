@@ -34,8 +34,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 150px;
- 
+  padding: 150px;
 }
 
 img {
