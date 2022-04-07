@@ -7,6 +7,13 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header  {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+  
 img {
   width: 600px;
 }
@@ -16,6 +23,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  ;
 }
 
 input {
@@ -24,4 +32,12 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+
+.footer {
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
 }
